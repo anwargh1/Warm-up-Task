@@ -1,0 +1,11 @@
+.search-input {
+    border: none;
+    width: 96%;
+    height:50px;
+}
+
+.search-bar{
+    padding: 4px;
+    width: 30%;
+    border-bottom: 2px solid rgba(128, 128, 128, 0.187);
+}
