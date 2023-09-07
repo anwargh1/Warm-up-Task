@@ -1,0 +1,27 @@
+
+
+.member-checked ,
+.member-notChecked
+{
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 12px;
+    padding: 12px;
+    border:2px solid rgba(128, 128, 128, 0.187);
+    background-color: rgba(238, 238, 238, 0.093);
+    border-radius: 4px;
+}
+
+.member-notChecked{
+   color: rgba(210, 210, 210, 0.734);
+
+}
+.input[type="checkbox" i] {
+    border-radius: 100%;
+    background-color: green;
+    accent-color:  #C70039; 
+}
+
+
+
