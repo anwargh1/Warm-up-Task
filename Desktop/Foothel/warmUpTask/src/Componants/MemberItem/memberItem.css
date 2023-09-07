@@ -13,7 +13,6 @@
 
 .member-item:has(> input[type=checkbox]:checked){ 
     color: black;
-    border:2px solid black;
 }
 
 .member-item-icon{
